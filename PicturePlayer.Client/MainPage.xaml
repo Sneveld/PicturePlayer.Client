@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="PicturePlayer.Client.View.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PicturePlayer.Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModel="using:PicturePlayer.Client.ViewModel.ViewModel"
+    xmlns:interop="using:Windows.UI.Xaml.Interop"
+    xmlns:view="using:PicturePlayer.Client.View"
+    xmlns:view1="using:PicturePlayer.Client.View.View"
+    xmlns:selectors="using:PicturePlayer.Client.View.Selectors"
+    mc:Ignorable="d"
+   
+    >
+    
+    <Page.Resources>
+
+
+        <DataTemplate  x:Key="PictureView">
+            <view1:PictureView ></view1:PictureView>
+        </DataTemplate>
+
+        <DataTemplate x:Key="WaitView">
+            <view1:WaitView />
+        </DataTemplate>
+        
+        <selectors:MainpageTemplateSelector x:Key="MainpageTemplateSelector"  PictureViewTemplate="{StaticResource PictureView}" WaitTemplate="{StaticResource WaitView}"/>
+
+    </Page.Resources>
+
+
+
+
+
+
+    <ContentControl HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    HorizontalContentAlignment="Stretch" 
+                    VerticalContentAlignment="Stretch"   Content="{Binding Path=CurrenViewModel, UpdateSourceTrigger=PropertyChanged}" ContentTemplateSelector="{StaticResource MainpageTemplateSelector}">
+
+     </ContentControl>
+    
+</Page>

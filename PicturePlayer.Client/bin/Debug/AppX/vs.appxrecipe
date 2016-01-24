@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASU-MADSTER</Machine>
+    <WindowsUser>VDanishevskiy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>07a854c3-854f-4d12-8c2d-468a856ff7d5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BBDC6CAA3B5652BA4895ED2C4FE6C5CBB1EEB345152F42A2992D7515E1114F13</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>07a854c3-854f-4d12-8c2d-468a856ff7d5_1.0.0.0_neutral__wn83es1hzek9c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>07a854c3-854f-4d12-8c2d-468a856ff7d5_wn83es1hzek9c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>07a854c3-854f-4d12-8c2d-468a856ff7d5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=VDanishevskiy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-24T11:31:41.227</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\PicturePlayer.Client.View.exe">
+      <PackagePath>PicturePlayer.Client.View.exe</PackagePath>
+      <Modified>2016-01-24T17:49:00.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2016-01-24T15:59:28.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.ViewModel\bin\Debug\PicturePlayer.Client.ViewModel.dll">
+      <PackagePath>PicturePlayer.Client.ViewModel.dll</PackagePath>
+      <Modified>2016-01-24T17:49:00.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.ViewModel\bin\Debug\PicturePlayer.Client.Model.dll">
+      <PackagePath>PicturePlayer.Client.Model.dll</PackagePath>
+      <Modified>2016-01-24T17:49:00.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.ViewModel\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-01-23T08:12:16.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\Assets\refresh-icon.png">
+      <PackagePath>Assets\refresh-icon.png</PackagePath>
+      <Modified>2016-01-24T09:29:58.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-24T11:31:40.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-24T11:31:40.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\View\PictureView.xbf">
+      <PackagePath>View\PictureView.xbf</PackagePath>
+      <Modified>2016-01-24T11:31:40.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\View\WaitView.xbf">
+      <PackagePath>View\WaitView.xbf</PackagePath>
+      <Modified>2016-01-24T11:31:40.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\View\WebPajeView.xbf">
+      <PackagePath>View\WebPajeView.xbf</PackagePath>
+      <Modified>2016-01-24T11:31:40.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\PicturePlayer.Client.View.xr.xml">
+      <PackagePath>PicturePlayer.Client.View.xr.xml</PackagePath>
+      <Modified>2016-01-24T11:31:40.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-24T17:50:05.625</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

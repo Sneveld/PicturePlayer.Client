@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASU-MADSTER</Machine>
+    <WindowsUser>VDanishevskiy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bcb93134-57ae-4569-9d2a-b97747bea58f</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8DBBB0E430B88A27BB607DC77E9BB7AF4DDB68DCE14A247BC2C5B4F3081D7180</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bcb93134-57ae-4569-9d2a-b97747bea58f_1.0.0.0_neutral__wn83es1hzek9c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bcb93134-57ae-4569-9d2a-b97747bea58f_wn83es1hzek9c!vstest.executionengine.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bcb93134-57ae-4569-9d2a-b97747bea58f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=VDanishevskiy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-24T10:51:58.633</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\bin\Debug\PicturePlayer.Client.Model.UnitTest.dll">
+      <PackagePath>PicturePlayer.Client.Model.UnitTest.dll</PackagePath>
+      <Modified>2016-01-24T10:51:58.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model\bin\Debug\PicturePlayer.Client.Model.dll">
+      <PackagePath>PicturePlayer.Client.Model.dll</PackagePath>
+      <Modified>2016-01-24T10:16:01.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\bin\Debug\PicturePlayer.Client.Model.UnitTest.pdb">
+      <PackagePath>PicturePlayer.Client.Model.UnitTest.pdb</PackagePath>
+      <Modified>2016-01-24T10:51:58.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model\bin\Debug\PicturePlayer.Client.Model.pdb">
+      <PackagePath>PicturePlayer.Client.Model.pdb</PackagePath>
+      <Modified>2016-01-24T10:16:01.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll</PackagePath>
+      <Modified>2013-10-04T23:38:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+      <Modified>2014-10-31T21:46:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-01-23T08:12:16.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2016-01-23T09:47:40.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2016-01-23T09:47:41.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.pdb">
+      <PackagePath>GalaSoft.MvvmLight.pdb</PackagePath>
+      <Modified>2016-01-23T09:47:40.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Extras.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Extras.pdb</PackagePath>
+      <Modified>2016-01-23T09:47:40.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Platform.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Platform.pdb</PackagePath>
+      <Modified>2016-01-23T09:47:40.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.pdb">
+      <PackagePath>Microsoft.Practices.ServiceLocation.pdb</PackagePath>
+      <Modified>2016-01-23T09:47:41.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+      <Modified>2013-10-04T23:38:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+      <Modified>2014-10-31T21:46:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+      <Modified>2013-10-04T23:38:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+      <Modified>2013-10-04T23:38:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+      <Modified>2014-04-30T22:50:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+      <Modified>2014-07-22T23:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+      <Modified>2014-07-22T23:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\Images\UnitTestLogo.scale-100.png">
+      <PackagePath>Images\UnitTestLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\Images\UnitTestSmallLogo.scale-100.png">
+      <PackagePath>Images\UnitTestSmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\Images\UnitTestSplashScreen.scale-100.png">
+      <PackagePath>Images\UnitTestSplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\Images\UnitTestStoreLogo.scale-100.png">
+      <PackagePath>Images\UnitTestStoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vdanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model.UnitTest\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-24T10:51:58.560</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

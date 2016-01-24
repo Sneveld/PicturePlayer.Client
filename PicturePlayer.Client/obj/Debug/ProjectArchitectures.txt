@@ -1,0 +1,3 @@
+C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.Model\PicturePlayer.Client.Model.csproj;neutral
+C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client.ViewModel\PicturePlayer.Client.ViewModel.csproj;neutral
+C:\Users\VDanishevskiy\documents\visual studio 2013\Projects\PicturePlayer.Client\PicturePlayer.Client\PicturePlayer.Client.View.csproj;neutral
